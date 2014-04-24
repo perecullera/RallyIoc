@@ -16,7 +16,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.ioc.rallyioc.MainActivity"
+            android:name="com.ioc.rallyioc.JocRallyIOC"
             android:label="@string/app_name" 
             android:configChanges="keyboard|keyboardHidden|orientation"
 			android:screenOrientation="portrait">>
